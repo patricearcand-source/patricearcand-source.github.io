@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Patrice Arcand · ML Analyst</title>
-    <link>http://localhost:1313/patricearcand-source/patricearcand-source.github.io.git/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Patrice Arcand · ML Analyst</description>
     <generator>Hugo</generator>
     <language>fr-ca</language>
     <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/patricearcand-source/patricearcand-source.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assurance</title>
-      <link>http://localhost:1313/patricearcand-source/patricearcand-source.github.io.git/tags/assurance/</link>
+      <link>http://localhost:1313/tags/assurance/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/patricearcand-source/patricearcand-source.github.io.git/tags/assurance/</guid>
+      <guid>http://localhost:1313/tags/assurance/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/patricearcand-source/patricearcand-source.github.io.git/tags/machine-learning/</link>
+      <link>http://localhost:1313/tags/machine-learning/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/patricearcand-source/patricearcand-source.github.io.git/tags/machine-learning/</guid>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/patricearcand-source/patricearcand-source.github.io.git/tags/python/</link>
+      <link>http://localhost:1313/tags/python/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/patricearcand-source/patricearcand-source.github.io.git/tags/python/</guid>
+      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Xgboost</title>
-      <link>http://localhost:1313/patricearcand-source/patricearcand-source.github.io.git/tags/xgboost/</link>
+      <link>http://localhost:1313/tags/xgboost/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/patricearcand-source/patricearcand-source.github.io.git/tags/xgboost/</guid>
+      <guid>http://localhost:1313/tags/xgboost/</guid>
       <description></description>
     </item>
   </channel>

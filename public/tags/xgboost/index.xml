@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Xgboost on Patrice Arcand · ML Analyst</title>
-    <link>http://localhost:1313/patricearcand-source/patricearcand-source.github.io.git/tags/xgboost/</link>
+    <link>http://localhost:1313/tags/xgboost/</link>
     <description>Recent content in Xgboost on Patrice Arcand · ML Analyst</description>
     <generator>Hugo</generator>
     <language>fr-ca</language>
     <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/patricearcand-source/patricearcand-source.github.io.git/tags/xgboost/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/xgboost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Détection de fumeurs non déclarés avec XGBoost</title>
-      <link>http://localhost:1313/patricearcand-source/patricearcand-source.github.io.git/posts/pipeline-fumeur/</link>
+      <link>http://localhost:1313/posts/pipeline-fumeur/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/patricearcand-source/patricearcand-source.github.io.git/posts/pipeline-fumeur/</guid>
+      <guid>http://localhost:1313/posts/pipeline-fumeur/</guid>
       <description>&lt;h2 id=&#34;contexte&#34;&gt;Contexte&lt;/h2&gt;
 &lt;p&gt;Dans le secteur de l&amp;rsquo;assurance vie, un fumeur non déclaré représente
 un risque sinistre significativement plus élevé&amp;hellip;&lt;/p&gt;

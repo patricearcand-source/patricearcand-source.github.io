@@ -1,4 +1,4 @@
-baseURL = "https://github.com/patricearcand-source/patricearcand-source.github.io.git"
+baseURL = "https://patricearcand-source.github.io/"
 languageCode = "fr-ca"
 title = "Patrice Arcand · ML Analyst"
 theme = "PaperMod"
