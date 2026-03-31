@@ -1,3 +1,21 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = "https://github.com/patricearcand-source/patricearcand-source.github.io.git"
+languageCode = "fr-ca"
+title = "Patrice Arcand · ML Analyst"
+theme = "PaperMod"
+
+[params]
+  description = "Machine learning appliqué en assurance vie"
+  author = "Patrice Arcand"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+
+[menu]
+  [[menu.main]]
+    name = "Articles"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "À propos"
+    url = "/about/"
+    weight = 2
